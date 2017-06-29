@@ -20,15 +20,15 @@
 
 
 ## SDKs
-**Node.js:** https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
-**Python:** https://github.com/johnwheeler/flask-ask
-**Ruby:** https://github.com/sjmog/ralyxa
+- **Node.js:** https://github.com/alexa/alexa-skills-kit-sdk-for-nodejs
+- **Python:** https://github.com/johnwheeler/flask-ask
+- **Ruby:** https://github.com/sjmog/ralyxa
 
 ## Tools
 https://bespoken.tools/bst
 
 ## Interesting Datasets
 
- [World Population API](http://api.population.io)
- [Numbers API](http://numbersapi.com) - An API for interesting facts about numbers
- [REST Countries](https://restcountries.eu) - Get information about countries via a RESTful API
+- [World Population API](http://api.population.io)
+- [Numbers API](http://numbersapi.com) - An API for interesting facts about numbers
+- [REST Countries](https://restcountries.eu) - Get information about countries via a RESTful API

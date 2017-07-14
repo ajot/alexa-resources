@@ -8,11 +8,11 @@
 4. [Team Lookup](https://github.com/alexa/skill-sample-nodejs-team-lookup) - "learn":["slots","custom","built-in","state management","attributes","search"]
 5. [How to](https://github.com/alexa/skill-sample-nodejs-howto) - "learn":["basics","custom","slots","attributes"]
 6. [Trivia](https://github.com/alexa/skill-sample-nodejs-trivia) - "learn":["basics","slots","built-in","state management","attributes"]
-7. [High Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) - "learn":["slots","built-in","state management","attributes"]
+7. [High Low Game](https://github.com/alexa/skill-sample-nodejs-highlowgame) - "learn":["slots","built-in","state management","attributes","dynamodb"]
 8. [City Guide](https://github.com/alexa/skill-sample-nodejs-city-guide) - "learn":["slots","built-in","state management","api","nytimes"]
 9. [Decision Tree](https://github.com/alexa/skill-sample-nodejs-decision-tree) - "learn":["slots","custom","state management","attributes"]
 10. [Calendar Reader](https://github.com/alexa/skill-sample-nodejs-calendar-reader):"learn" - "learn":["slots","built-in","state management","calendar","ics"]
-11. [RSS/Atom Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) - "learn":["slots","built-in","custom","state management","attributes","rss","atom","feeds"]
+11. [RSS/Atom Feed Reader](https://github.com/alexa/skill-sample-nodejs-feed) - "learn":["slots","built-in","custom","state management","attributes","rss","atom","feeds","dynamodb"]
 
 ## Tutorials
 - [Publishing Your Skill Code to Lambda via the Command Line Interface](https://developer.amazon.com/blogs/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface)

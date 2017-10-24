@@ -17,6 +17,7 @@
 
 ## Learning Resources
 - [Codecademy Courses](https://alexa.design/codecademy)
+- [Skillinator](https://skillinator.io)
 
 ## Tutorials
 - [Publishing Your Skill Code to Lambda via the Command Line Interface](https://developer.amazon.com/blogs/post/Tx1UE9W1NQ0GYII/Publishing-Your-Skill-Code-to-Lambda-via-the-Command-Line-Interface)
